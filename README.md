@@ -43,26 +43,30 @@ I have contributed to open-source projects such as:
 ### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C# / .NET" src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Windows_API-0078D4?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Conan-6699CB?style=flat&logo=conan&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Windows API" src="https://img.shields.io/badge/Windows_API-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img alt="Conan" src="https://img.shields.io/badge/Conan-6699CB?style=flat-square&logo=conan&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Boost.Asio-00599C?style=flat" />
-  <img src="https://img.shields.io/badge/Boost.Beast-00599C?style=flat" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=white" />
-  <img src="https://img.shields.io/badge/libsodium-222222?style=flat" />
-  <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white" />
+  <img alt="Boost.Asio" src="https://img.shields.io/badge/Boost.Asio-00599C?style=flat-square" />
+  <img alt="Boost.Beast" src="https://img.shields.io/badge/Boost.Beast-00599C?style=flat-square" />
+  <img alt="OpenSSL" src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" />
+  <img alt="libsodium" src="https://img.shields.io/badge/libsodium-222222?style=flat-square" />
+  <img alt="GoogleTest" src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
+---
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=kisenaa&style=flat-square&color=blue" />
