@@ -12,7 +12,7 @@
 ---
 
 ### About
-I am a final-year Informatics student at Sepuluh Nopember Institute of Technology (ITS), focused on C and C++, low-level systems, embedded software, firmware, drivers, operating systems, kernel concepts, and Windows/Linux system development.
+I am a final-year Informatics student at Sepuluh Nopember Institute of Technology (ITS), focused on C and C++, low-level systems, operating systems, embedded software, firmware, drivers, kernel concepts, and Windows/Linux system development.
 
 I enjoy working close to the system layer, especially around debugging, memory behavior, hardware/software interaction, networking, and system performance.
 
@@ -23,10 +23,11 @@ I enjoy working close to the system layer, especially around debugging, memory b
 I have contributed to open-source projects such as:
 
 <ul>
-  <li>
-    <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
-    &nbsp;<a href="https://github.com/brave/brave-core"><sup><img src="https://img.shields.io/github/stars/brave/brave-core?style=flat" align="middle" /></sup></a>
-  </li>
+<li>
+  <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
+  &nbsp;<a href="https://github.com/brave/brave-browser"><sup><img src="https://img.shields.io/github/stars/brave/brave-browser?style=flat&label=brave-browser" align="middle" alt="brave-browser stars" /></sup></a>
+  &nbsp;<a href="https://github.com/brave/brave-core"><sup><img src="https://img.shields.io/github/stars/brave/brave-core?style=flat&label=brave-core" align="middle" alt="brave-core stars" /></sup></a>
+</li>
   <li>
     <a href="https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa">Special K</a> — C++ fixes for game compatibility and improving DLSS detection
     &nbsp;<a href="https://github.com/SpecialKO/SpecialK"><sup><img src="https://img.shields.io/github/stars/SpecialKO/SpecialK?style=flat" align="middle" /></sup></a>
