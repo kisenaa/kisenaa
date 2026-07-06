@@ -24,9 +24,20 @@ I enjoy working close to the system layer, especially around debugging, memory b
 
 I have contributed to open-source projects such as:
 
-* [Brave Browser](https://github.com/brave/brave-core/pull/36478) — fixed a custom background bug involving C++ image decoding and Mojo IPC message size limits
-* [Special K](https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa) — contributed C++ fixes for game compatibility and improving DLSS detection
-* [Conan Center Index](https://github.com/conan-io/conan-center-index/pull/30314) — updated and validated the libsodium Conan package recipe
+<ul>
+  <li>
+    <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
+    &nbsp;<a href="https://github.com/brave/brave-core"><img src="https://img.shields.io/github/stars/brave/brave-core?style=flat" align="middle" /></a>
+  </li>
+  <li>
+    <a href="https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa">Special K</a> — C++ fixes for game compatibility and improving DLSS detection
+    &nbsp;<a href="https://github.com/SpecialKO/SpecialK"><img src="https://img.shields.io/github/stars/SpecialKO/SpecialK?style=flat" align="middle" /></a>
+  </li>
+  <li>
+    <a href="https://github.com/conan-io/conan-center-index/pull/30314">Conan Center Index</a> — Updated/validated libsodium Conan package
+    &nbsp;<a href="https://github.com/conan-io/conan-center-index"><img src="https://img.shields.io/github/stars/conan-io/conan-center-index?style=flat" align="middle" /></a>
+  </li>
+</ul>
 
 ---
 
