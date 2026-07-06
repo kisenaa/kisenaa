@@ -25,9 +25,8 @@ I enjoy working close to the system layer, especially around debugging, memory b
 I have contributed to open-source projects such as:
 
 * [Brave Browser](https://github.com/brave/brave-core/pull/36478) — fixed a custom background bug involving C++ image decoding and Mojo IPC message size limits
-* [Special K](https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa) — contributed C++ fixes for game compatibility, DLSS detection, and Vulkan overlay behavior
+* [Special K](https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa) — contributed C++ fixes for game compatibility and improving DLSS detection
 * [Conan Center Index](https://github.com/conan-io/conan-center-index/pull/30314) — updated and validated the libsodium Conan package recipe
-
 
 ---
 
