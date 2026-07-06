@@ -9,15 +9,12 @@
   <sub>C/C++ and low-level systems enthusiast</sub>
 </p>
 
----
-
 ### About
 I am a final-year Informatics student at Sepuluh Nopember Institute of Technology (ITS), focused on C and C++, low-level systems, operating systems, embedded software, firmware, drivers, kernel concepts, and Windows/Linux system development.
 
 I enjoy working close to the system layer, especially around debugging, memory behavior, hardware/software interaction, networking, and system performance.
 
 ---
-
 ### Open Source Contributions
 
 I have contributed to open-source projects such as:
@@ -39,7 +36,6 @@ I have contributed to open-source projects such as:
 </ul>
 
 ---
-
 ### Tech Stack
 
 <p>
