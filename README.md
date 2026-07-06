@@ -4,17 +4,15 @@
   <a href="https://linkedin.com/in/johannesdanis">LinkedIn</a> ·
   <a href="https://github.com/kisenaa">GitHub</a> ·
   <a href="https://kisenaa.me">Website</a> ·
-  <a href="https://leetcode.com/u/kisenaa">LeetCode</a>
+  <a href="https://leetcode.com/u/">LeetCode</a>
   <br />
   <sub>C/C++ and low-level systems enthusiast</sub>
 </p>
 
-
 ---
 
 ### About
-
-I am a final-year Computer Science student at Sepuluh Nopember Institute of Technology (ITS), focused on C and C++, low-level systems, operating systems, firmware, embedded software, and Windows/Linux system development.
+I am a final-year Informatics student at Sepuluh Nopember Institute of Technology (ITS), focused on C and C++, low-level systems, embedded software, firmware, drivers, operating systems, kernel concepts, and Windows/Linux system development.
 
 I enjoy working close to the system layer, especially around debugging, memory behavior, hardware/software interaction, networking, and system performance.
 
@@ -27,15 +25,15 @@ I have contributed to open-source projects such as:
 <ul>
   <li>
     <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
-    &nbsp;<a href="https://github.com/brave/brave-core"><img src="https://img.shields.io/github/stars/brave/brave-core?style=flat" align="middle" /></a>
+    &nbsp;<a href="https://github.com/brave/brave-core"><sup><img src="https://img.shields.io/github/stars/brave/brave-core?style=flat" align="middle" /></sup></a>
   </li>
   <li>
     <a href="https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa">Special K</a> — C++ fixes for game compatibility and improving DLSS detection
-    &nbsp;<a href="https://github.com/SpecialKO/SpecialK"><img src="https://img.shields.io/github/stars/SpecialKO/SpecialK?style=flat" align="middle" /></a>
+    &nbsp;<a href="https://github.com/SpecialKO/SpecialK"><sup><img src="https://img.shields.io/github/stars/SpecialKO/SpecialK?style=flat" align="middle" /></sup></a>
   </li>
   <li>
     <a href="https://github.com/conan-io/conan-center-index/pull/30314">Conan Center Index</a> — Updated/validated libsodium Conan package
-    &nbsp;<a href="https://github.com/conan-io/conan-center-index"><img src="https://img.shields.io/github/stars/conan-io/conan-center-index?style=flat" align="middle" /></a>
+    &nbsp;<a href="https://github.com/conan-io/conan-center-index"><sup><img src="https://img.shields.io/github/stars/conan-io/conan-center-index?style=flat" align="middle" /></sup></a>
   </li>
 </ul>
 
