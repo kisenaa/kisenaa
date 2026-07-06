@@ -18,7 +18,16 @@ I am a final-year Computer Science student at Sepuluh Nopember Institute of Tech
 
 I enjoy working close to the system layer, especially around debugging, memory behavior, hardware/software interaction, networking, and system performance.
 
-I have contributed to open-source projects such as [Brave Browser](https://github.com/brave/brave-core/pull/36478), [Special K](https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa), and [Conan Center Index](https://github.com/conan-io/conan-center-index/pull/30314).
+---
+
+### Open Source Contributions
+
+I have contributed to open-source projects such as:
+
+* [Brave Browser](https://github.com/brave/brave-core/pull/36478) — fixed a custom background bug involving C++ image decoding and Mojo IPC message size limits
+* [Special K](https://github.com/SpecialKO/SpecialK/pulls?q=is%3Apr+author%3Akisenaa) — contributed C++ fixes for game compatibility, DLSS detection, and Vulkan overlay behavior
+* [Conan Center Index](https://github.com/conan-io/conan-center-index/pull/30314) — updated and validated the libsodium Conan package recipe
+
 
 ---
 
@@ -47,6 +56,4 @@ I have contributed to open-source projects such as [Brave Browser](https://githu
   <img src="https://img.shields.io/badge/libsodium-222222?style=flat" />
   <img src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
-
----
 
