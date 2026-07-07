@@ -1,5 +1,4 @@
-<h3 align="center">Hi, I'm Johannes Daniswara Pratama</h3>
-
+<h3 align="center">👋 Hi, I'm Johannes Daniswara Pratama</h3>
 <p align="center">
   <a href="https://linkedin.com/in/johannesdanis">LinkedIn</a> ·
   <a href="https://github.com/kisenaa">GitHub</a> ·
@@ -17,8 +16,7 @@ I enjoy working close to the system layer, especially around debugging, memory b
 ---
 ### Open Source Contributions
 
-I have contributed to open-source projects such as:
-
+Some of my merged open-source contributions include:
 <ul>
 <li>
   <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
@@ -37,7 +35,6 @@ I have contributed to open-source projects such as:
 
 ---
 ### Tech Stack
-
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
@@ -65,4 +62,7 @@ I have contributed to open-source projects such as:
 
 ---
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=kisenaa&style=flat-square&color=blue" /> ![](https://hit.yhype.me/github/profile?account_id=115395772)
+<p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kisenaa&amp;style=flat-square&amp;color=blue" />
+  <img alt="" width="1" height="1" src="https://hit.yhype.me/github/profile?account_id=115395772" />
+</p>
