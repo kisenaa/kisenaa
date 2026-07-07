@@ -65,4 +65,4 @@ I have contributed to open-source projects such as:
 
 ---
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=kisenaa&style=flat-square&color=blue" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=kisenaa&style=flat-square&color=blue" /> ![](https://hit.yhype.me/github/profile?account_id=115395772)
