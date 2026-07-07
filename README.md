@@ -16,7 +16,7 @@ I enjoy working close to the system layer, especially around debugging, memory b
 ---
 ### Open Source Contributions
 
-Some of my merged open-source contributions include:
+Some of my merged open-source pull requests include:
 <ul>
 <li>
   <a href="https://github.com/brave/brave-core/pull/36478">Brave Browser</a> — Fixed custom background bug involving C++ image decoding
