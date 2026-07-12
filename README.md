@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/johannesdanis">LinkedIn</a> ·
   <a href="https://github.com/kisenaa">GitHub</a> ·
-  <a href="https://kisenaa.me">Website</a> ·
+  <a href="https://kisenaa.com">Website</a> ·
   <a href="https://leetcode.com/u/">LeetCode</a>
   <br />
   <sub>C/C++ and low-level systems enthusiast</sub>
