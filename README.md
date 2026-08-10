@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Johannes Daniswara Pratama</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/johannesdanis">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/johannespratama">LinkedIn</a> ·
   <a href="https://github.com/kisenaa">GitHub</a> ·
   <a href="https://kisenaa.com">Website</a> ·
   <a href="https://leetcode.com/u/">LeetCode</a>
