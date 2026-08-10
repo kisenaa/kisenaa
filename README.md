@@ -47,6 +47,7 @@ Some of my merged pull requests to open-source projects include:
   <img alt="Windows API" src="https://img.shields.io/badge/Windows_API-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+  <img alt="GCC" src="https://img.shields.io/badge/GCC-777777?style=flat-square&logo=gnu&logoColor=white" />
   <img alt="Conan" src="https://img.shields.io/badge/Conan-6699CB?style=flat-square&logo=conan&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
