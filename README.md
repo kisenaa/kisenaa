@@ -11,7 +11,7 @@
 ### About
 I am a final-year Computer Science student at Sepuluh Nopember Institute of Technology (ITS), focused on C++ and C, low-level systems, embedded software, firmware, device drivers, operating systems, and Windows/Linux system development.
 
-I enjoy working close to the system layer, especially on debugging, memory behavior, hardware-software interactions, networking, and system performance.
+I enjoy learning how software works closer to the machine, especially around performance, memory, debugging, hardware-software interactions, networking, and system behavior.
 
 ---
 ### Open Source Contributions
