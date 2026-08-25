@@ -8,7 +8,7 @@
 </p>
 
 ### About
-I am a final-year Computer Science student at Sepuluh Nopember Institute of Technology (ITS), focused on C++ and C, low-level systems, embedded software, firmware, device drivers, operating systems, and Windows/Linux system development.
+I am a recent Computer Science graduate from Sepuluh Nopember Institute of Technology (ITS), focused on C++ and C, low-level systems, embedded software, firmware, device drivers, operating systems, and Windows/Linux system development.
 
 I enjoy learning how software works closer to the machine, especially around performance, memory, debugging, hardware-software interactions, networking, and system behavior.
 
